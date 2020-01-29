@@ -2,6 +2,12 @@
 
 Use Selenium and Firefox to change the SNMP community strings on a TP-Link TL-WA801ND wireless access point.
 
+## YouTube video
+
+A nice introduction (two minutes and twenty seconds worth):
+
+[Using Selenium and Firefox to set SNMP community strings on a TP-Link TP-WA801ND access point](https://youtu.be/dkGR9WqeOlk)
+
 ## What you will need
 
 + Windows 10
